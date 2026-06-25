@@ -1,0 +1,33 @@
+Test 1:
+L=0.01
+ng=1000       
+ne=100000
+t=0
+dt=0.0000016836
+t_tot=0.001
+xi0=0.001*dx
+
+Results:
+Dominant frequency in U_E : 56996.6714 Hz
+Angular frequency of U_E  : 358120.6483 rad/s
+wp from simulation: 179060.3241 rad/s
+wp theoretical: 178192.3925 rad/s
+Relative error: 0.49 %
+
+######################################################################################################################################
+
+Test 2:
+L=1
+ng=1000       
+ne=100000
+t=0
+dt=1.19e-5
+t_tot=0.001
+xi0=0.001*dx
+
+Results:
+Dominant frequency in U_E : 56896.6772 Hz
+Angular frequency of U_E  : 357492.3664 rad/s
+wp from simulation: 178746.1832 rad/s
+wp theoretical: 178192.3925 rad/s
+Relative error: 0.31 %

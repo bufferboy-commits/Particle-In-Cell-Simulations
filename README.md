@@ -7,7 +7,7 @@
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-0057B8?style=for-the-badge)
 ![PIC Method](https://img.shields.io/badge/Particle--in--Cell-2d6a4f?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-<
+
 </div>
 
 ## Overview
